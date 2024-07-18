@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FFCCFFFF</color>
+
+    <!-- Warna Utama (60%) -->
+    <color name="colorPrimary">#007bff</color>
+    <color name="colorPrimaryDark">#0056b3</color>
+    <color name="colorPrimaryLight">#66b2ff</color>
+
+    <!-- Warna Sekunder (30%) -->
+    <color name="colorSecondary">#1a1a1a</color>
+    <color name="colorSecondaryDark">#000000</color>
+    <color name="colorSecondaryLight">#333333</color>
+
+    <!-- Warna Aksen (10%) -->
+    <color name="colorAccent">#ff6600</color>
+    <color name="colorAccentDark">#cc5200</color>
+    <color name="colorAccentLight">#ff8533</color>
+
+    <!-- Warna Latar Belakang -->
+    <color name="backgroundColor">#ffffff</color> <!-- Putih untuk latar belakang konten -->
+    <color name="backgroundColorDark">#f2f2f2</color> <!-- Abu-abu terang untuk variasi -->
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hari Pertama</string>
+    <string name="dts">Digitalent Kominfo</string>
+    <string name="username">Username</string>
+    <string name="username_placeholder">Masukkan username ...</string>
+    <string name="password">Password</string>
+    <string name="password_placeholder">Masukkan password ...</string>
+    <string name="login">Login</string>
+    <string name="login_desc">Silahkan login untuk melanjutkan</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Keluar</string>
+    <string name="txt_kalkulator">Kalkulator</string>
+    <string name="txt_back">Back</string>
+    <string name="txt_daily_note">Daily Note</string>
+    <string name="txt_add">Tambah Data</string>
+    <string name="txt_add_daily_note">Tambah Note</string>
+    <string name="txt_judul_label">Judul</string>
+    <string name="txt_placeholder_judul">Masukkan Judul ...</string>
+    <string name="txt_tambah_note">Tambah Note</string>
+    <string name="txt_placeholder_deskripsi">Masukkan Deskripsi ...</string>
+    <string name="txt_deskripsi_label">Deskripsi</string>
+    <string name="txt_delete_note">Hapus Catatan</string>
+    <string name="txt_update_note">Ubah Catatan</string>
+    <string name="txt_book">Buku</string>
+    <string name="txt_tambah_buku">Tambah Buku</string>
+    <string name="txt_delete_buku">Hapus Buku</string>
+    <string name="txt_update_buku">Ubah Buku</string>
+    <string name="txt_rest_api">Restful API</string>
+</resources>
